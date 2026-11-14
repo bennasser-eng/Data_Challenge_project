@@ -16,3 +16,5 @@
        benchmark hyperparams
     then train on full training data with the best hyperparameters
     then test on the 10% data (test data)
+# computing the boruta  score for features:
+(see boruta.py)
